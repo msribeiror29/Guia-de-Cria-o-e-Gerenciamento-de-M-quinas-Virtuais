@@ -15,6 +15,7 @@ Este repositório contém anotações, resumos e procedimentos práticos para cr
 1. Criação da VM.
 
   1.2  Ao entrar no Microsoft Azure, você vai visualizar os Serviços Azure e nas opções abaixo clique na Máquinas Virtuais.
+  
 ![Figura 1 2](https://github.com/user-attachments/assets/5bcb4aed-2cda-4901-846e-d1d2846b1f71)
 
 
